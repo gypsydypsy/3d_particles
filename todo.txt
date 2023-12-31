@@ -1,0 +1,7 @@
+1. Enlever le slider et ajouter un bouton switch rond
+2. Agrandir les models  + ajuster la position (au cas par cas ?)
+2. Ajuster les params selon les nouveaux models
+3. Ameliorer la transition
+4. Enlever le mouvement du model au mousemove  mais laisser orbit Controls? 
+5. More models ? 
+6. Tourner légérement les modèles (3/4)

@@ -1,0 +1,5 @@
+$path: '../../../static/fonts';
+@font-face {
+    font-family: "Garamond";
+    src: url("#{$path}/garamond.ttf") format("truetype")
+}
